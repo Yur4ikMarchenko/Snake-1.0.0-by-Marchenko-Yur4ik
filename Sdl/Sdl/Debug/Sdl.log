@@ -1,0 +1,5 @@
+﻿  Sdl.cpp
+E:\repo\Snake 1.0.1 by Marchenko Yur4ik\Sdl\Sdl\Sdl.cpp(45,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\repo\Snake 1.0.1 by Marchenko Yur4ik\Sdl\Sdl\Sdl.cpp(290,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\repo\Snake 1.0.1 by Marchenko Yur4ik\Sdl\Sdl\Sdl.cpp(311): warning C4715: SDL_main: значение возвращается не при всех путях выполнения
+  Sdl.vcxproj -> E:\repo\Snake 1.0.1 by Marchenko Yur4ik\Sdl\Debug\Sdl.exe
