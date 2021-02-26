@@ -15,10 +15,10 @@
 
 			Як запустити?
    Потрібне підключення таких бібліотек та заголовків: 
-	\n1)iostream;
-	\n2)dos.h;
-	\n3)conio.h;
-	\n4)time.h;
-	\n5)windows.h;
-	\n6)Point.h;
-	\n7)Snake.h.
+   1)iostream;
+   2)dos.h;
+   3)conio.h;
+   4)time.h;
+   5)windows.h;
+   6)Point.h;
+   7)Snake.h.
